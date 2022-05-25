@@ -1,4 +1,4 @@
-# Curso de VSCode
+# Mejora tus habilidades de desarrollo con VSCode
 
 Un pequeño repositorio donde aprenderemos un par de trucos para trabajar rápidamente con Visual Studio Code.
 
